@@ -1,0 +1,14 @@
+[
+  {
+    "id": 1,
+    "name": "Mojito",
+    "ingredients": ["white rum", "sugar", "lime juice", "soda water", "mint"],
+    "instructions": "Muddle mint leaves with sugar and lime juice. Add rum, top with soda water. Garnish and serve."
+  },
+  {
+    "id": 2,
+    "name": "Martini",
+    "ingredients": ["gin", "dry vermouth", "olive"],
+    "instructions": "Stir gin and vermouth with ice. Strain into a chilled glass, garnish with olive."
+  }
+]
